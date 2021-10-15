@@ -1,0 +1,45 @@
+{
+    "name": "imshuzai/flarum-right-and-center-bbcode",
+    "description": "Right alignment and centering on Flarum",
+    "type": "flarum-extension",
+    "keywords": ["discussion"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "imshuzai",
+            "homepage": "https://potatohovel.com",
+            "role": "Creator"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/imshuzai/flarum-right-and-center-bbcode/issues",
+        "source": "https://github.com/imshuzai/flarum-right-and-center-bbcode",
+        "forum": "https://discuss.flarum.org"
+    },
+    "homepage": "https://potatohovel.com",
+    "funding": [
+        {
+            "type": "website",
+            "url": "https://potatohovel.com"
+        }
+    ],
+    "require": {
+        "flarum/core": "^1.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZerosOnesFun\\ExtensionName\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Right alignment and centering on Flarum",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-align-justify",
+                "backgroundColor": "#ddd",
+                "color": "#000"
+            }
+        }
+    }
+}
