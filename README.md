@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of imshuzai/flarum-right-and-center-bbcode.** Not for installation: use [Packagist](https://packagist.org/packages/imshuzai/flarum-right-and-center-bbcode) or the [upstream repository](https://github.com/imshuzai/flarum-right-and-center-bbcode).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/imshuzai-flarum-right-and-center-bbcode/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/imshuzai-flarum-right-and-center-bbcode/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2021-10-15 | `^1.0.0` | [Browse](https://github.com/flarchive/imshuzai-flarum-right-and-center-bbcode/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/imshuzai-flarum-right-and-center-bbcode.json](https://github.com/flarchive/archive-index/blob/main/packages/imshuzai-flarum-right-and-center-bbcode.json)
 
